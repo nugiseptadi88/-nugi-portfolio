@@ -31,7 +31,7 @@ h2{font:700 clamp(42px,5.5vw,78px)/1.02 'Barlow Condensed',sans-serif;margin:0;l
 .client-social:hover{border-color:var(--red);background:var(--red)}
 .client-social svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8}
 .client-social .ig-dot{fill:currentColor;stroke:none}
-.hero{background:linear-gradient(90deg,#080808ef,#08080870),url('assets/headline-nugi.jpg') center/cover}
+.hero{background:linear-gradient(90deg,#080808ef,#08080870),url('./headline-nugi.jpg') center/cover}
 .client-card{position:relative;display:block;padding:0;overflow:hidden;background:linear-gradient(145deg,#191919,#0e0e0e)}
 .client-card .client-icon{position:absolute;inset:0;width:100%;height:100%;margin:0;padding:0!important;background:transparent;z-index:0}
 .client-card .client-icon img,.client-card:first-child .client-icon img,.client-card:nth-child(3) .client-icon img{width:100%;height:100%;object-fit:contain;object-position:center bottom}
